@@ -1,16 +1,15 @@
-## Hi there 👋
+## Timeline
+```text
+### 2026
+* **한화에어로스페이스** 스마트 국방 데이터 분석 과정 7기  | `2026.01.15 - 2026.07.21 (진행 중)`
 
-<!--
-**yangjunho-m/yangjunho-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2025
+* **안산대학교** AI 개발 공모전 **우수상 수상**             |  `2025.11.20`
+* **SGA 솔루션즈** | DevOps S/W 엔지니어 인턴               | `2025.07.01 - 2025.08.29`
+* **코멘토** | 클라우드 AWS 구축부터 운영까지 실무 부트캠프  | `2025.06.07 - 2025.07.05`
+* **안산대학교** | IT 프로젝트 동아리 운영                  | `2025.03.06 - 2025.12.20`
+* 공군 네트워크 체계병 복무                                 | `2023.05.29 - 2025.02.28`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ~ 2022
+* 고등학생 unity 게임 개발 후 출시           | `2020.01.20 - 2022.11.28`
+* 디지털미디어고등학교 설리번 웹프로젝트 참여 | `2018.11.01 - 2019.02.28`
